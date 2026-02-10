@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/search/[song].js": {
+      "maxDuration": 10
+    }
+  }
+}
