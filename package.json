@@ -1,0 +1,8 @@
+{
+  "name": "music-search-api",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "yt-search": "^2.10.4"
+  }
+}
